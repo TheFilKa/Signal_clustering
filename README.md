@@ -19,19 +19,6 @@ notebooks/signal_clustering_final_solution.ipynb
 8. генерация `submission_final.csv`;
 9. скриншот Kaggle leaderboard.
 
-Финальный файл для отправки:
-
-```text
-outputs/submission_final.csv
-```
-
-Скриншот leaderboard:
-
-```text
-images/kaggle_leaderboard.png
-```
-
-
 ## Установка
 
 ```bash
